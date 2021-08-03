@@ -83,7 +83,7 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0gram1&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+ 
 </p>
 
 </div>
