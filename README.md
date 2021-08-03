@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hi, I'm Novak :wave:
 ====================
 
@@ -47,3 +48,6 @@ Dev
 <a href="https://dribbble.com/novakcgx">
     <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
+=======
+
+>>>>>>> b3842215a43f9a905f5cfc343873f034e42f806a
