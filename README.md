@@ -26,8 +26,8 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </td>
 <td align="center">
-<a href="https://github.com/Tomislav/pr0gram1/issues/new?template=Guestbook_entry.md">
-<strong>Sign my guest book</strong>
+<a href="mailto:tomislav2806@gmail.com"></a>.<br>
+<strong>Email</strong>
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
