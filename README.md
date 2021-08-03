@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -17,3 +18,6 @@
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/pr0gram1/pr0gram1?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
+=======
+
+>>>>>>> 11695992afd1d97c83ec997a61f704b92f2f60b3
