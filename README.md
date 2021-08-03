@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-Hi, I'm Novak :wave:
+HEAD
+Hi, I'm Tomislav :wave:
 ====================
 
-Free software advocate, digital media designer, writer, and aspiring computer
-graphics scientist.
+Information Technology student, working as System Administrator, junior programar, and editor.
 
 Life
 ----
