@@ -3,7 +3,7 @@
   <img src="/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Tomislav and I love technology" src="/images/personal_note.svg" />
+  <img height="50" alt="hello world" src="/images/personal_note.svg" />
   <br />
   <br />
 
