@@ -1,23 +1,49 @@
-<<<<<<< HEAD
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://pr0gram1.vercel.app/api/spotify)](https://open.spotify.com/user/uotd0mbqs1wz0g1nq8zisr7oq?si=f701ec5a7e384f76)
+Hi, I'm Novak :wave:
+====================
 
-  </td>
-  <td width="50%">
+Free software advocate, digital media designer, writer, and aspiring computer
+graphics scientist.
 
-<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/tomislav-dundovi%C4%87-b1b73184/)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
-  [![Visits](https://komarev.com/ghpvc/?username=pr0gram1&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/pr0gram1)
-</p>
-  </td>
-  </table>
+Life
+----
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[//]: <> (Old Visits: https://badges.pufler.dev/visits/pr0gram1/pr0gram1?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
-=======
+<img align="right" src="img/scene.png">
 
->>>>>>> 11695992afd1d97c83ec997a61f704b92f2f60b3
+:shipit: [**Computer Graphics Central**][cgcentral] founder  
+:shipit: [**42tm**][42tm] founder & free software engineer  
+:shipit: **University of Rochester** CS '25
+
+[cgcentral]: https://cgcentral.github.io
+[42tm]:      https://github.com/42tm
+
+Dev
+---
+
+:sunglasses: **JavaScript** ([lnagb.js][lnagbjs], [three.js sketches][three])  
+        :ox: **Bash** ([reveal-init][ri], [gnu][gnu], [battery][battery])  
+      :memo: **Atom** :atom:, nano, and vim  
+     :heart: **3D**, **the Web**, and **GNU/Linux**
+
+[lnagbjs]: https://github.com/cgcentral/lnagb.js
+[three]:   https://github.com/novakcgx/three.js-sketches
+[ri]:      https://github.com/novakcgx/reveal-init
+[gnu]:     https://github.com/novakcgx/gnu
+[battery]: https://github.com/novakcgx/battery
+
+- - -
+
+<a href="https://novakcgx.github.io">
+    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
+</a>
+
+<a href="mailto:novakcgx@protonmail.com">
+    <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
+</a>
+
+<a href="https://www.instagram.com/thechonkypenguin">
+    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
+
+<a href="https://dribbble.com/novakcgx">
+    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+</a>
