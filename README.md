@@ -1,4 +1,4 @@
-
+<!-- "Hero" Header -->
 <div align="center">
   <img src="/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
@@ -9,7 +9,7 @@
 
 </div>
 
-
+<!-- Social -->
 <table width="100%">
 <tr>
 <td align="center">
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-
+<!-- Centering something has never been easy, has it? -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img alt="Globe" height="80" src="/images/globe.gif?raw=true">
 </a>
@@ -59,6 +59,8 @@
 </tr>
 </table>
 
+<!-- Footer -->
+
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="/images/marquee.svg" />
@@ -68,17 +70,20 @@
 
 
 <img src="/images/notepad.gif" alt="Site created with Notepad" height="30" />
-
+<!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=pr0gram1&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0gram1&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <br>
   <br>
+ 
 </p>
 
 </div>
