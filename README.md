@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <img height="50" alt="My Name is Tomislav and I like technology" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
   <br />
   <br />
 
@@ -13,8 +13,8 @@
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
+<a href="https://www.linkedin.com/in/tomislav-dundovi%C4%87-b1b73184/">
+<strong>Visit my Linkedin website </strong>
 <br />
 <br />
 
@@ -42,8 +42,8 @@
 </td>
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
+<a href="https://www.youtube.com/watch?v=Jn6-TItCazo">
+<strong>Play some music</strong>
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
