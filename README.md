@@ -14,7 +14,7 @@
 <tr>
 <td align="center">
 <a href="https://www.linkedin.com/in/tomislav-dundovi%C4%87-b1b73184/">
-<strong>Visit my Linkedin website </strong>
+<strong>Linkedin profile </strong>
 <br />
 <br />
 
