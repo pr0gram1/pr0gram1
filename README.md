@@ -14,9 +14,10 @@
 <tr>
 <td align="center">
 <a href="https://www.linkedin.com/in/tomislav-dundovi%C4%87-b1b73184/">
-<strong align="center" >Linkedin profile </strong>
+<strong>Linkedin profile </strong>
 <br />
-<br />
+
+  
 
 <!-- Centering something has never been easy, has it? -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
