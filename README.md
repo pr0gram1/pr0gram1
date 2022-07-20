@@ -26,7 +26,7 @@
 </td>
 <td align="center">
 <a href="mailto:tomislav2806@gmail.com">
-<strong>Email</strong>
+<strong  align="center">Email</strong>
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
