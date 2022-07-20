@@ -7,7 +7,7 @@
   <br />
   <br />
 
-</div>
+
 
 <!-- Social -->
 <table width="100%">
@@ -57,6 +57,7 @@
 </td>
 </tr>
 </table>
+  </div>
 
 <!-- Footer -->
 
