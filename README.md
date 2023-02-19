@@ -8,27 +8,6 @@
   <br />
 
 
-
-<!-- Social -->
-<table width="100%">
-<tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/tomislav-dundovi%C4%87-b1b73184/">
-<strong>Linkedin profile </strong>
-<br />
-
-  
-
-<!-- Centering something has never been easy, has it? -->
-</td>
-<td align="center">
-<a href="mailto:tomislav2806@gmail.com">
-<strong  align="center">Email</strong>
-<br />
-
-  
-</td>
-
 <td align="center">
 <a href="https://www.youtube.com/watch?v=TKfS5zVfGBc">
 <strong>Play some music</strong>
