@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Frontend Software Engineer<br>🎥 Video and Photo Editor<br>🔭 Exploring more about Frontend and Editing<br>🌱 Interested in technology<br>💬 Feel free to reach me<br>
+💻 Frontend Software Engineer<br>🎥 Video and Photo Editor<br>🔭 Interested in Frontend, Editing and Design <br>🖥️ Teach Head<br>💬 Feel free to reach me<br>
 
 
 ## 🌐 Socials:
@@ -14,4 +14,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pr0gram1&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
