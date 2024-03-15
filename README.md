@@ -1,6 +1,6 @@
 <img src="/images/banner2.jpg">
 
-# 🌳  About Me:
+# 🏞️  About Me:
 💻 Frontend Software Engineer<br>🎥 Video and Photo Editor<br>🔭 Interested in Frontend, Editing and Design <br>🖥️ Teach Head<br>💬 Feel free to reach me<br>
 
 
