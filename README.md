@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-- 🔭 Working as Cyber Security Analyst
-- 🌱 Worked as Sofware Engineer and SysAdmin
+- 💻 Cyber Security
+- 🖥️ Software Engineering
+- 💾 SysAdministration
